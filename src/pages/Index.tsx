@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import Icon from "@/components/ui/icon";
 
 const HERO_IMG =
-  "https://cdn.poehali.dev/projects/67b40e03-af21-4912-82f0-ec548236011b/files/795c051d-d88c-4a34-8384-7da58a27686e.jpg";
+  "https://cdn.poehali.dev/projects/67b40e03-af21-4912-82f0-ec548236011b/files/d90216a8-ea75-47b6-918f-2d1b7a1dd311.jpg";
 
 const services = [
   {
