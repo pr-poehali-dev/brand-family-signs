@@ -219,11 +219,12 @@ export default function Index() {
             <div className="w-20 h-0.5 bg-[#C0C0C0] mb-6" />
 
             <p className="text-white/70 text-lg leading-relaxed mb-8 font-light">
-              Профессиональные электромонтажные работы
+              Комплекс электромонтажных работ
+              <span className="text-[#C0C0C0] font-medium"> «под ключ»</span>
               <br className="hidden sm:block" />
-              <span className="text-[#C0C0C0] font-medium"> 0,4–35 кВ</span> любой сложности.
+              для промышленных и специальных объектов.
               <br className="hidden sm:block" />
-              Проектирование, монтаж, наладка и техническое обслуживание.
+              Субподряд · <span className="text-[#C0C0C0] font-medium">0,4–35 кВ</span> · ЭТЛ аккредитована в РОССЕТИ
             </p>
 
             <div className="flex flex-wrap gap-4">
